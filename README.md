@@ -2,7 +2,7 @@
 
 
 
-LilHomie is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the New York Tri-state Area. 
+LilHomie is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the USA
 
 This repository contains all the associated work that has been done for the area which includes:
 * Web Crawler to gather housing data
@@ -17,5 +17,3 @@ This repository contains all the associated work that has been done for the area
 * Feeding the ML model with data of properties across the US and making necessary adjustments based on new results, instead of the tri-states properties it is limited to (but this requires the above three enhancements to be done first)
 
 
-### Questions?
-Email the author at anton.503.overload@gmail.com
